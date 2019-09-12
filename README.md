@@ -12,3 +12,6 @@ We provides files with lists of tweets and their sentiments in:
 
 The sentiment was generated thanks to AWS Comprehend API. For Spanish and French, tweets were first translated to English using Google Translate, and then analyzed with AWS Comprehend. 
 Sentiment is classified to either positive, negative, neutral, or mixed.
+
+More on how to use them with my article on Medium:
+https://medium.com/@media_73863/fasttext-sentiment-analysis-for-tweets-a-straightforward-guide-9a8c070449a2
