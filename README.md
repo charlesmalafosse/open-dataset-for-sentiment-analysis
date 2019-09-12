@@ -10,8 +10,14 @@ We provides files with lists of tweets and their sentiments in:
 * Italian tweets dataset => 425 000 tweets
 * German tweets dataset => 210 000 tweets
 
-The sentiment was generated thanks to AWS Comprehend API. For Spanish and French, tweets were first translated to English using Google Translate, and then analyzed with AWS Comprehend. 
-Sentiment is classified to either positive, negative, neutral, or mixed.
-
 More on how to use them with my article on Medium:
 https://medium.com/@media_73863/fasttext-sentiment-analysis-for-tweets-a-straightforward-guide-9a8c070449a2
+
+## About the data
+
+Tweets were collected using the Twitter API between May and September 2018. The sentiment was generated thanks to AWS Comprehend API. For Spanish and French, tweets were first translated to English using Google Translate, and then analyzed with AWS Comprehend. 
+Sentiment is classified to either positive, negative, neutral, or mixed.
+
+Files are zipped and in csv format. One tweet per line and number of lines indicated below in the download section.
+
+Data is provided free, as is, and without warranty under the MIT license.
