@@ -1,4 +1,5 @@
-# Open datasets for sentiment analysis based on tweets in English/Spanish/French/German/Italian
+# Open datasets for sentiment analysis 
+based on tweets in English/Spanish/French/German/Italian
 
 Most open datasets for text classification are quite small and we noticed that few, if any, are available for languages other than English. Therefore we want to make available to everyone this datasets for sentiment analysis.
 
