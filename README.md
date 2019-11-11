@@ -18,6 +18,6 @@ https://medium.com/@media_73863/fasttext-sentiment-analysis-for-tweets-a-straigh
 Tweets were collected using the Twitter API between May and September 2018. The sentiment was generated thanks to AWS Comprehend API. For Spanish and French, tweets were first translated to English using Google Translate, and then analyzed with AWS Comprehend. 
 Sentiment is classified to either positive, negative, neutral, or mixed.
 
-Files are zipped and in csv format. One tweet per line and number of lines indicated below in the download section.
+Files are zipped and in csv format. Zip files larger than 25MB are split in smaller files using 7zip. One tweet per line and number of lines indicated below in the download section.
 
 Data is provided free, as is, and without warranty under the MIT license.
