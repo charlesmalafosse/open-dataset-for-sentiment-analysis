@@ -1,3 +1,6 @@
+## Support me on Medium
+Become a member on Medium and support my work (affiliate link): https://medium.com/@charlesmalafosse/membership
+
 # Open datasets for sentiment analysis 
 based on tweets in English/Spanish/French/German/Italian
 
