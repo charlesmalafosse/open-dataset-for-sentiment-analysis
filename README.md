@@ -4,9 +4,9 @@ Become a member on Medium and support my work (affiliate link): https://medium.c
 # Open datasets for sentiment analysis 
 based on tweets in English/Spanish/French/German/Italian
 
-Most open datasets for text classification are quite small and we noticed that few, if any, are available for languages other than English. Therefore we want to make available to everyone this datasets for sentiment analysis.
+Most open datasets for text classification are quite small and we noticed that few, if any, are available for languages other than English. Therefore we want to make available to everyone these datasets for sentiment analysis.
 
-We provides files with lists of tweets and their sentiments in:
+We provide files with lists of tweets and their sentiments in:
 * **English tweets dataset** => 6.3 millions tweets available.
   * betsentiment-EN-tweets-players	- 273Mo	- 1.9m lines
   * betsentiment-EN-tweets-teams	- 519Mo	- 3.5m lines
@@ -31,7 +31,7 @@ https://towardsdatascience.com/fasttext-sentiment-analysis-for-tweets-a-straight
 ## About the data
 
 Tweets were collected using the Twitter API between May and September 2018. The sentiment was generated thanks to AWS Comprehend API. For Spanish and French, tweets were first translated to English using Google Translate, and then analyzed with AWS Comprehend. 
-Sentiment is classified to either positive, negative, neutral, or mixed.
+Sentiment is classified as either positive, negative, neutral, or mixed.
 
 Files are zipped and in csv format. Zip files larger than 25MB are split in smaller files using 7zip. One tweet per line and number of lines indicated above.
 
